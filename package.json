@@ -1,0 +1,30 @@
+{
+  "name": "simple-discord-bot",
+  "version": "1.0.0",
+  "description": "A simple and util Discord bot",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielkinash1/simple-discord-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord-bot"
+  ],
+  "author": "Gabriel Kinash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielkinash1/simple-discord-bot/issues"
+  },
+  "homepage": "https://github.com/gabrielkinash1/simple-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
